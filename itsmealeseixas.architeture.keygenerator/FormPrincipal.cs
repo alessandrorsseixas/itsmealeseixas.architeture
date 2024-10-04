@@ -5,31 +5,29 @@ namespace itsmealeseixas.architeture.keygenerator
         public FormPrincipal()
         {
             InitializeComponent();
-            //roundedComboBox1.SelectedIndex = 0;
+            panel1.Visible = false;
+            comboBox1.SelectedIndex = 0;
             //roundedComboBox2.SelectedIndex = 0;
         }
 
-        private void btDecCopy_Click(object sender, EventArgs e)
-        {
-            //var result = this.lblDecRes.Text;
-        }
+
 
         private void button5_Click(object sender, EventArgs e)
         {
 
-            if (roundedComboBox1.SelectedIndex == 0)
+            if (comboBox1.SelectedIndex == 0)
             {
 
                 MessageBox.Show("Não foi selecionado nenhum ambiente");
             }
             else
             {
-                string appToken = Program.ObterChaveSecreta(roundedComboBox1.SelectedItem.ToString());
+                string appToken = Program.ObterChaveSecreta(comboBox1.SelectedItem.ToString());
                 if (!string.IsNullOrEmpty(appToken))
                 {
-                    string encryptedText = Program.GenerateKey(roundedTextBox1.Text, appToken);
+                    string encryptedText = Program.GenerateKey(comboBox1.Text, appToken);
                     panel1.Visible = true;
-                    label7.Text = encryptedText;
+                    label8.Text = encryptedText;
                 }
                 else
                 {
@@ -79,6 +77,9 @@ namespace itsmealeseixas.architeture.keygenerator
             MessageBox.Show("Texto copiado para a área de transferência!");
         }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
 
+        }
     }
 }

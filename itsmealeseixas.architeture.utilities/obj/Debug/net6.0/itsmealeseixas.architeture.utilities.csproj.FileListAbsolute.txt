@@ -1,0 +1,12 @@
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.deps.json
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.csproj.AssemblyReference.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.AssemblyInfoInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.AssemblyInfo.cs
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.csproj.CoreCompileInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\refint\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\itsmealeseixas.architeture.utilities.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.utilities\obj\Debug\net6.0\ref\itsmealeseixas.architeture.utilities.dll

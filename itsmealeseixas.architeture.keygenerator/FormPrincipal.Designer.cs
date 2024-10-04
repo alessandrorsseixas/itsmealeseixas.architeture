@@ -260,6 +260,7 @@ namespace itsmealeseixas.architeture.keygenerator
             // 
             comboBox1.Font = new Font("Orbitron", 11.9999981F, FontStyle.Bold, GraphicsUnit.Point);
             comboBox1.FormattingEnabled = true;
+            comboBox1.Items.AddRange(new object[] { "Selecione um Ambiente", "Local", "Develop", "Homolog", "Staging", "Production" });
             comboBox1.Location = new Point(10, 175);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(367, 28);
@@ -342,6 +343,7 @@ namespace itsmealeseixas.architeture.keygenerator
             button6.TabIndex = 15;
             button6.Text = "DECRYPT";
             button6.UseVisualStyleBackColor = false;
+            button6.Click += button6_Click;
             // 
             // comboBox2
             // 
