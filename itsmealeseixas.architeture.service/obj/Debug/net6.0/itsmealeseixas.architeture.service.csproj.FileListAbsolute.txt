@@ -1,0 +1,17 @@
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.service.deps.json
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.service.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.service.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.domain.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.domain.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.csproj.AssemblyReference.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.AssemblyInfoInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.AssemblyInfo.cs
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.csproj.CoreCompileInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.csproj.CopyComplete
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\refint\itsmealeseixas.architeture.service.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\itsmealeseixas.architeture.service.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.service\obj\Debug\net6.0\ref\itsmealeseixas.architeture.service.dll

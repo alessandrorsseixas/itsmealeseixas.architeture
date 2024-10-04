@@ -1,0 +1,64 @@
+# Compiled binary and executable files
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+
+# DotNet specific folders
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet Packages
+*.nupkg
+# The following line can be removed if using NuGet v3 instead of NuGet v2
+packages/
+# Uncomment if necessary when using DotNet v7 or above
+# **/*.csproj.nuget.g.props
+# **/*.csproj.nuget.g.targets
+
+# Visual Studio files
+.vscode/
+.vs/
+*.vscode/
+.vsconfig
+launchSettings.json
+
+# Rider files
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# macOS system files
+.DS_Store
+
+# Linux system files
+*.pid
+*.pid.lock
+
+# JetBrains Rider specific files
+.idea/
+.idea_modules/
+.idea/libraries/
+.idea/inspections/
+
+# Local development environment folders
+.vscode/
+node_modules/
+
+# Coverage and reports
+*.coverage
+*.coveragexml
+*.opencover.xml
+TestResults/

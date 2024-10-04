@@ -1,0 +1,15 @@
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\bin\Debug\net6.0\itsmealeseixas.architeture.domain.deps.json
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\bin\Debug\net6.0\itsmealeseixas.architeture.domain.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\bin\Debug\net6.0\itsmealeseixas.architeture.domain.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.csproj.AssemblyReference.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.AssemblyInfoInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.AssemblyInfo.cs
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.csproj.CoreCompileInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.csproj.CopyComplete
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\refint\itsmealeseixas.architeture.domain.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\itsmealeseixas.architeture.domain.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.domain\obj\Debug\net6.0\ref\itsmealeseixas.architeture.domain.dll

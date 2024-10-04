@@ -1,0 +1,17 @@
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.api.deps.json
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.api.runtimeconfig.json
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.api.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.api.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\bin\Debug\net6.0\itsmealeseixas.architeture.utilities.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.csproj.AssemblyReference.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.AssemblyInfoInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.AssemblyInfo.cs
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.csproj.CoreCompileInputs.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.csproj.CopyComplete
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\refint\itsmealeseixas.architeture.api.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.pdb
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\itsmealeseixas.architeture.api.genruntimeconfig.cache
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.api\obj\Debug\net6.0\ref\itsmealeseixas.architeture.api.dll

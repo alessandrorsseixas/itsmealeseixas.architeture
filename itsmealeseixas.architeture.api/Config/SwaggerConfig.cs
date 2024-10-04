@@ -90,13 +90,22 @@ namespace itsmealeseixas.architeture.api.Config
             }
         }
 
-        static OpenApiInfo CreateInfoForApiVersion(ApiVersionDescription description)
+        public void Configure(SwaggerGenOptions options,string app)
+        {
+            foreach (var description in provider.ApiVersionDescriptions)
+            {
+
+                options.SwaggerDoc(description.GroupName, CreateInfoForApiVersion(description,app));
+            }
+        }
+
+        static OpenApiInfo CreateInfoForApiVersion(ApiVersionDescription description,string app = "")
         {
             var info = new OpenApiInfo()
             {
-                Title = "API - https://www.osborn.com.br",
+                Title = "API - TESTE",
                 Version = description.ApiVersion.ToString(),
-                Description = "Api para o Aplicativo Osborn Intraday",
+                Description = $"Api para o Aplicativo {app}",
                 Contact = new OpenApiContact() { Name = "Alessandro Seixas", Email = "its.me@aleseixas.com", Url = new Uri("https://github.com/alessandrorsseixas") },
                 TermsOfService = new Uri("https://opensource.org/licenses/MIT"),
                 License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }

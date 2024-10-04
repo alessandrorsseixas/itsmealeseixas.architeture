@@ -6,7 +6,9 @@ namespace itsmealeseixas.architeture.keygenerator
         {
             InitializeComponent();
             panel1.Visible = false;
+            panel5.Visible = false;
             comboBox1.SelectedIndex = 0;
+            comboBox2.SelectedIndex = 0;
             //roundedComboBox2.SelectedIndex = 0;
         }
 
@@ -25,7 +27,7 @@ namespace itsmealeseixas.architeture.keygenerator
                 string appToken = Program.ObterChaveSecreta(comboBox1.SelectedItem.ToString());
                 if (!string.IsNullOrEmpty(appToken))
                 {
-                    string encryptedText = Program.GenerateKey(comboBox1.Text, appToken);
+                    string encryptedText = Program.GenerateKey(textBox1.Text, appToken);
                     panel1.Visible = true;
                     label8.Text = encryptedText;
                 }
@@ -37,21 +39,21 @@ namespace itsmealeseixas.architeture.keygenerator
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e)
         {
-            if (roundedComboBox2.SelectedIndex == 0)
+            if (comboBox2.SelectedIndex == 0)
             {
 
                 MessageBox.Show("Não foi selecionado nenhum ambiente");
             }
             else
             {
-                string appToken = Program.ObterChaveSecreta(roundedComboBox2.SelectedItem.ToString());
+                string appToken = Program.ObterChaveSecreta(comboBox2.SelectedItem.ToString());
                 if (!string.IsNullOrEmpty(appToken))
                 {
-                    string decrypText = Program.DescriptKey(roundedTextBox2.Text, appToken);
-                    panel2.Visible = true;
-                    label8.Text = decrypText;
+                    string decrypText = Program.DescriptKey(textBox2.Text, appToken);
+                    panel5.Visible = true;
+                    label15.Text = decrypText;
                 }
                 else
                 {
@@ -63,7 +65,7 @@ namespace itsmealeseixas.architeture.keygenerator
 
         private void button3_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(label7.Text);
+            Clipboard.SetText(label15.Text);
 
             // Exibe uma mensagem de confirmação
             MessageBox.Show("Texto copiado para a área de transferência!");
@@ -77,9 +79,6 @@ namespace itsmealeseixas.architeture.keygenerator
             MessageBox.Show("Texto copiado para a área de transferência!");
         }
 
-        private void button6_Click(object sender, EventArgs e)
-        {
 
-        }
     }
 }

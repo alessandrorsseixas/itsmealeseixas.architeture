@@ -349,6 +349,7 @@ namespace itsmealeseixas.architeture.keygenerator
             // 
             comboBox2.Font = new Font("Orbitron", 11.9999981F, FontStyle.Bold, GraphicsUnit.Point);
             comboBox2.FormattingEnabled = true;
+            comboBox2.Items.AddRange(new object[] { "Selecione um Ambiente", "Local", "Develop", "Homolog", "Staging", "Production" });
             comboBox2.Location = new Point(10, 175);
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(367, 28);

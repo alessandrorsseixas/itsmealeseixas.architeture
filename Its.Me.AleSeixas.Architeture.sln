@@ -17,7 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itsmealeseixas.architeture.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{6A3DC479-4AB4-4E8E-AA11-4ED45BC82701}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "itsmealeseixas.architeture.keygenerator", "itsmealeseixas.architeture.keygenerator\itsmealeseixas.architeture.keygenerator.csproj", "{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "itsmealeseixas.architeture.keygenerator", "itsmealeseixas.architeture.keygenerator\itsmealeseixas.architeture.keygenerator.csproj", "{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{24BEAC2B-4490-420F-9BBC-12D23DCB0085}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{3B16BECF-C32D-4803-B4CE-F4BAA21C5797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Its.Me.AleSeixas.Example.Domain", "Its.Me.AleSeixas.Example.Domina\Its.Me.AleSeixas.Example.Domain.csproj", "{6B2AF647-D2BE-4625-BE5F-EC02B8417100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Its.Me.AleSeixas.Example.Domain.Tests", "Its.Me.AleSeixas.Example.Domain.Tests\Its.Me.AleSeixas.Example.Domain.Tests.csproj", "{76C0071F-334B-4AD0-9044-9E495CD15531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,12 +61,28 @@ Global
 		{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2AF647-D2BE-4625-BE5F-EC02B8417100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2AF647-D2BE-4625-BE5F-EC02B8417100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2AF647-D2BE-4625-BE5F-EC02B8417100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2AF647-D2BE-4625-BE5F-EC02B8417100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C0071F-334B-4AD0-9044-9E495CD15531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C0071F-334B-4AD0-9044-9E495CD15531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C0071F-334B-4AD0-9044-9E495CD15531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C0071F-334B-4AD0-9044-9E495CD15531}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2946B05D-BA7B-42DC-88B6-EAF291BA20B2} = {6A3DC479-4AB4-4E8E-AA11-4ED45BC82701}
+		{99E6B618-2500-49AC-B6D9-79F70DF530C2} = {24BEAC2B-4490-420F-9BBC-12D23DCB0085}
+		{06429B38-2597-459F-8DA8-F202CD0F6B80} = {24BEAC2B-4490-420F-9BBC-12D23DCB0085}
+		{3554C2C4-C89F-4C49-A582-843D6E56C361} = {24BEAC2B-4490-420F-9BBC-12D23DCB0085}
+		{067270BA-800B-49AC-B81B-7D396CF3B1D2} = {24BEAC2B-4490-420F-9BBC-12D23DCB0085}
+		{3FE8B733-DA68-4AEC-B299-676AE2D41562} = {24BEAC2B-4490-420F-9BBC-12D23DCB0085}
+		{CDBCCBBC-DE4E-43FC-836C-D77B22DF9853} = {3B16BECF-C32D-4803-B4CE-F4BAA21C5797}
+		{6B2AF647-D2BE-4625-BE5F-EC02B8417100} = {6A3DC479-4AB4-4E8E-AA11-4ED45BC82701}
+		{76C0071F-334B-4AD0-9044-9E495CD15531} = {6A3DC479-4AB4-4E8E-AA11-4ED45BC82701}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {10E3A5B9-85A4-470F-8636-CA886CB07BD9}

@@ -11,11 +11,11 @@ namespace itsmealeseixas.architeture.utilities.SeedWorks
     public class ApplicationSettings
     {
         public string CorsOrigins { get; set; }
+        public string CorsPolicy { get; set; }
         public string AppToken { get; set; }
-        public string Tenant { get; set; }
+        public string Sentry { get; set; }
         public string Project { get; set; }
         public string DatabaseType { get; set; }
-        public string ProcessPath { get; set; }
         public string Api { get; set; }
     }
 }

@@ -1,7 +1,8 @@
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.exe
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.dll
+D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.utilities.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.deps.json
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.runtimeconfig.json
-D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.pdb
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\Enums.NET.dll
@@ -23,7 +24,6 @@ D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
-D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.utilities.dll
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\bin\Debug\net6.0-windows\itsmealeseixas.architeture.utilities.pdb
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\obj\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.csproj.AssemblyReference.cache
 D:\Git\estudo\itsmealeseixas.architeture\itsmealeseixas.architeture.keygenerator\obj\Debug\net6.0-windows\itsmealeseixas.architeture.keygenerator.FormPrincipal.resources
